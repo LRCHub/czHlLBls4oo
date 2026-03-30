@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Hey-day狂騒曲(カプリチオ)",
+  "base_artist": "Afterglow",
+  "createdAt": "2026-03-30T15:32:58.757602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey-Day狂騒曲(カプリチオ)(Raychell、夏芽、倉知玲鳳、大塚紗英(ゲスト))",
+      "artist": "THE THIRD(仮)",
+      "has_synced": false,
+      "path": "select/01_Hey-Day狂騒曲(カプリチオ)(Raychell、夏芽、倉知玲鳳、大塚紗英(ゲスト))_THE_THIRD(仮).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey-day狂騒曲(カプリチオ) - Hey-day Capriccio",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/02_Hey-day狂騒曲(カプリチオ)_-_Hey-day_Capriccio_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey‐day狂騒曲(カプリチオ)",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/03_Hey‐day狂騒曲(カプリチオ)_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey-day狂騒曲(カプリチオ) -instrumental-",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/04_Hey-day狂騒曲(カプリチオ)_-instrumental-_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey-day狂騒曲(カプリチオ)",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/05_Hey-day狂騒曲(カプリチオ)_Afterglow.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey-day狂騒曲(カプリチオ)",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/06_Hey-day狂騒曲(カプリチオ)_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey‐day狂騒曲(カプリチオ)",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/07_Hey‐day狂騒曲(カプリチオ)_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey-day狂騒曲(カプリチオ) - instrumental",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/08_Hey-day狂騒曲(カプリチオ)_-_instrumental_Afterglow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey‐day狂騒曲(カプリチオ) (instrumental)",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/09_Hey‐day狂騒曲(カプリチオ)_(instrumental)_Afterglow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey-day 狂騒曲(カプリチオ)",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/pl_01_Hey-day_狂騒曲(カプリチオ)_Afterglow.txt"
+    }
+  ]
+}
